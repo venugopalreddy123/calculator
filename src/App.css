@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.inputs {
+  display: block;
+  background-color: skyblue;
+}
+.inputs button {
+  width: 25%;
+  height: 40px;
+  font-size: 20px;
+}
+
+.output-result {
+  background-color: royalblue;
+  height: 60px;
+  width: 100%;
+}
+.output-result p {
+  font-size: 40px;
+}
+.main {
+  max-width: 400px;
+  margin: auto;
+}
