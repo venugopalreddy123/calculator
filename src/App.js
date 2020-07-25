@@ -45,6 +45,7 @@ class App extends React.Component {
       <div className="App">
         <h1> Calculator</h1>
         <div className="main">
+          <h1>Hello World</h1>
           <Output result={this.state.result} />
           <Calculator buttonPressed={this.buttonPressed} />
         </div>
